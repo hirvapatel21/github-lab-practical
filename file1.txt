@@ -1,0 +1,1 @@
+Version Control: GitHub uses the Git system to track changes to code and files, allowing users to maintain a complete history of a project and revert to previous versions if needed.
