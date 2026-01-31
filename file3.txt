@@ -1,0 +1,1 @@
+Repositories and Forks: Projects are stored in "repositories" (like project folders), and users can create a "fork" (their own copy) of a public repository to propose changes or work independently.
