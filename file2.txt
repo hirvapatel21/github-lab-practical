@@ -1,0 +1,1 @@
+Collaboration Platform: It is a web-based platform that facilitates real-time collaboration among developers and teams, allowing multiple people to work on the same project simultaneously without overwriting each other's work.
